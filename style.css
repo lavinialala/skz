@@ -1,0 +1,77 @@
+.sidebar {
+    width: 240px;
+    height: 100%;
+    background-color: #ffffff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow-y: auto;
+  }
+  
+  .logo {
+    margin: 20px 0;
+    text-align:center
+  }
+  
+  .logo img {
+    width: 150px;
+  }
+  .nav {
+    margin: 20px 0;
+    list-style: none;
+    padding: 0;
+
+  }
+  
+  .nav li {
+    padding: 10px;
+  }
+  
+  .nav li a {
+    color: #ffa3a3;
+    text-decoration: none;
+    
+  }
+  
+  .nav li a:hover {
+    color: #ffa3a3;
+  }
+  .content {
+    margin-left: 240px;
+    padding: 20px;
+  }
+  .logos{
+     margin: 20px;
+    height: 30px;
+    width: 40px;
+  }
+  .text{
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-weight: lighter;
+   color: rgb(0, 0, 0);
+  }
+  .logolupa{
+      width: 35x;
+      height: 25px;
+      border-radius: 7%;
+  }
+  .text{
+      color: rgb(39, 39, 39);
+      opacity: 50%;
+  }
+  .fundo{
+  
+      color: #ff98e2;
+  }
+  .baixar{
+      color: rgb(255, 249, 249);
+      width: 35px;
+      height: 30px;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-weight: lighter;
+   text-align: center;
+  }
+  .borda{
+  background-color: rgb(90, 217, 249);
+  
+  }
